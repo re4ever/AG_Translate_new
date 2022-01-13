@@ -5523,7 +5523,7 @@ I18nData_Xls_2.xls={
 ["garage_nothing"]={id="garage_nothing",value="퇴역할 수 있는 AG는 없습니다."},
 ["phase_not_unlocked"]={id="phase_not_unlocked",value="미해방"},
 ["GBR_leftnum"]={id="GBR_leftnum",value="남은 횟수"},
-["GBR_receive"]={id="GBR_receive",value="수취"},
+["GBR_receive"]={id="GBR_receive",value="획득"},
 ["GBR_Notreached"]={id="GBR_Notreached",value="미달성"},
 ["GBR_yilignqu"]={id="GBR_yilignqu",value="획득완료"},
 ["monthcardtip1"]={id="monthcardtip1",value="※ 로그인 하지 않은 날의 보상은 이월되지 않습니다"},
