@@ -20029,7 +20029,7 @@ I18nData_Xls_1.xls={
 ["ui_WorldBoss_closetime"]={id="ui_WorldBoss_closetime",value="철수까지"},
 ["ui_WorldBoss_closetimeshow"]={id="ui_WorldBoss_closetimeshow",value="%d일 %.2d시간 %.2d분"},
 ["ui_WorldBoss_attemptnum"]={id="ui_WorldBoss_attemptnum",value="도전가능횟수"},
-["ui_WorldBoss_attemptnumadd"]={id="ui_WorldBoss_attemptnumadd",value="(%2.d 시간%2.d 분 후 추가)"},
+["ui_WorldBoss_attemptnumadd"]={id="ui_WorldBoss_attemptnumadd",value="(%.2d 시간%.2d 분 후 추가)"},
 ["ui_WorldBoss_attemptnumfull"]={id="ui_WorldBoss_attemptnumfull",value="MAX"},
 ["ui_WorldBoss_detail"]={id="ui_WorldBoss_detail",value="대전 상세"},
 ["ui_WorldBoss_information"]={id="ui_WorldBoss_information",value="전투 정보"},
