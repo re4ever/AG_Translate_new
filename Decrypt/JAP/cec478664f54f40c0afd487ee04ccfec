@@ -2,6 +2,7 @@
 
 I18nData_Xls_1={}
 I18nData_Xls_1.xls={
+["Arenarobot_name_579"]={id="Arenarobot_name_579",value="프리다"},
 ["Arenarobot_name_580"]={id="Arenarobot_name_580",value="카밀라"},
 ["Arenarobot_name_581"]={id="Arenarobot_name_581",value="스파이크"},
 ["Arenarobot_name_582"]={id="Arenarobot_name_582",value="스튜어트"},
@@ -29892,7 +29893,6 @@ I18nData_Xls_1.xls={
 ["Charactervoicemain_unlockVoice_201070040"]={id="Charactervoicemain_unlockVoice_201070040",value="스킬 1"},
 ["Charactervoicemain_unlockVoice_201070041"]={id="Charactervoicemain_unlockVoice_201070041",value="스킬2"},
 ["Charactervoicemain_unlockVoice_201070042"]={id="Charactervoicemain_unlockVoice_201070042",value="스킬3"},
-["Charactervoicemain_unlockVoice_201070043"]={id="Charactervoicemain_unlockVoice_201070043",value="스킬4"},
 }
 function I18nData_Xls_1.GetExcelData(id)
 	local data = I18nData_Xls_1.xls[tostring(id)]

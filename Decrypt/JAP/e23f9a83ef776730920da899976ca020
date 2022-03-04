@@ -2,6 +2,7 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["Charactervoicemain_unlockVoice_201070043"]={id="Charactervoicemain_unlockVoice_201070043",value="스킬4"},
 ["Charactervoicemain_unlockVoice_201070044"]={id="Charactervoicemain_unlockVoice_201070044",value="스킬5"},
 ["Charactervoicemain_unlockVoice_201070045"]={id="Charactervoicemain_unlockVoice_201070045",value="스킬6"},
 ["Charactervoicemain_unlockVoice_201070046"]={id="Charactervoicemain_unlockVoice_201070046",value="데미지1"},
@@ -7441,9 +7442,9 @@ I18nData_Xls_2.xls={
 ["Showag_agCareer_100200510"]={id="Showag_agCareer_100200510",value="——"},
 ["Showag_code_100200510"]={id="Showag_code_100200510",value="AGS-06"},
 ["Showag_birthday_100200510"]={id="Showag_birthday_100200510",value="9월 21일"},
-["Skilloverview_lv1Desc_15300308"]={id="Skilloverview_lv1Desc_15300308",value="행광 시뮬레이션 데이터.\n「칼 사냥」행광의 RANK 업에 사용할 수 있다."},
-["Skilloverview_skillName_15300308"]={id="Skilloverview_skillName_15300308",value="임시 자료"},
-["Skilloverview_skillActionName_15300308"]={id="Skilloverview_skillActionName_15300308",value="임시 자료"},
+["Skilloverview_lv1Desc_15300309"]={id="Skilloverview_lv1Desc_15300309",value="행광 시뮬레이션 데이터.\n「칼 사냥」행광의 RANK 업에 사용할 수 있다."},
+["Skilloverview_skillName_15300309"]={id="Skilloverview_skillName_15300309",value="임시 자료"},
+["Skilloverview_skillActionName_15300309"]={id="Skilloverview_skillActionName_15300309",value="임시 자료"},
 ["Itemshow_name_10020051"]={id="Itemshow_name_10020051",value="임시 자료 : 유키미츠"},
 ["Itemshow_description_10020051"]={id="Itemshow_description_10020051",value="'칼 사냥' 행광 시뮬레이션 데이터.「칼 사냥」행광의 RANK 업에 사용할 수 있다."},
 ["Avatar_name_4081"]={id="Avatar_name_4081",value="카구라"},
