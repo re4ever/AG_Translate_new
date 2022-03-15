@@ -13998,7 +13998,7 @@ I18nData_Xls_1.xls={
 ["ManualEntry_entryname_1180101"]={id="ManualEntry_entryname_1180101",value="기간 한정 이벤트 획득"},
 ["ManualEntry_entryname_1180201"]={id="ManualEntry_entryname_1180201",value="기간 한정 이벤트 획득"},
 ["ManualEntry_entryname_1190101"]={id="ManualEntry_entryname_1190101",value="보급-훈장교체"},
-["ManualEntry_entryname_1190201"]={id="ManualEntry_entryname_1190201",value="보급-이화교환"},
+["ManualEntry_entryname_1190201"]={id="ManualEntry_entryname_1190201",value="보급-동맹 보급"},
 ["ManualEntry_entryname_2110101"]={id="ManualEntry_entryname_2110101",value="자원획득-무스포획"},
 ["ManualEntry_entryname_2110102"]={id="ManualEntry_entryname_2110102",value="스토리-곤란드롭"},
 ["ManualEntry_entryname_2110103"]={id="ManualEntry_entryname_2110103",value="함대-군비함"},
