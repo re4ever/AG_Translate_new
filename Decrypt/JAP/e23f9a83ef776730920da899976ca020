@@ -5935,7 +5935,7 @@ I18nData_Xls_2.xls={
 ["Lt_gacha_mainReward"]={id="Lt_gacha_mainReward",value="특별 보수"},
 ["Lt_gacha_subReward"]={id="Lt_gacha_subReward",value="통상 보수"},
 ["Lt_gacha_explain"]={id="Lt_gacha_explain",value="【추출 보수】설명"},
-["Lt_gacha_explain_tips"]={id="Lt_gacha_explain_tips",value="1회당 보수를 뽑으려면 10「지민」의 축의금을 소모해야 한다.\n보수는 뽑아서 다 받습니다<color=#c70016>중요보수</color>이후 바로 리셋이 가능하다.\n모든 것을 가져오기<color=#c70016>중요보수</color>이후, 리셋하지 않고 남은 보상을 계속 뽑을 수도 있습니다.\n4라운드 이후 현재 리스트에 있는 모든 보수를 뽑아야만 라운드 리셋이 가능합니다."},
+["Lt_gacha_explain_tips"]={id="Lt_gacha_explain_tips",value="보수를 한 번에 뽑는데 10환전을 소모해야 한다.\n보수를 추첨해 중요 보수를 받은 뒤 바로 리셋할 수 있다.\n중요한 보상을 받은 후에도 리셋하지 않고 계속 잔여 보상을 뽑을 수 있습니다.\n최종 라운드의 경우 현재 리스트에 있는 모든 보수를 뽑은 후 라운드 리셋을 할 수 있습니다."},
 ["Lt_gacha_confirm_allRound"]={id="Lt_gacha_confirm_allRound",value="모든 단계 확인"},
 ["Lt_gacha_confirm_currentRound"]={id="Lt_gacha_confirm_currentRound",value="현재 단계 확인"},
 ["Lt_gacha_check_currentRound"]={id="Lt_gacha_check_currentRound",value="제 %d 단계"},
