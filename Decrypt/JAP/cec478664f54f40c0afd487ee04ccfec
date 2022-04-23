@@ -21540,7 +21540,7 @@ I18nData_Xls_1.xls={
 ["Task_desc_103011"]={id="Task_desc_103011",value="AG를 1회 강화하다"},
 ["Task_desc_103012"]={id="Task_desc_103012",value="장비를 1회 강화하다"},
 ["Task_desc_103013"]={id="Task_desc_103013",value="모함에서 AG와 1회 교류하다"},
-["Task_desc_103014"]={id="Task_desc_103014",value="모함으로 AG에 1회 선물을 하다"},
+["Task_desc_103014"]={id="Task_desc_103014",value="총력전 2차진행(중섭)/모함에서 AG에 1회 선물"},
 ["Task_desc_103015"]={id="Task_desc_103015",value="매일 임무를 일정수 달성하다"},
 ["Task_desc_103016"]={id="Task_desc_103016",value="'알포스α'를 3구★4로 만들다."},
 ["Task_desc_103017"]={id="Task_desc_103017",value="'알포스β'를 1구★5로 만들다."},

@@ -2,6 +2,7 @@
 
 del /Q Result\CN\TextFiles.txt
 del /Q Result\JAP\TextFiles.txt
+del /Q Result\TW\TextFiles.txt
 del /S /Q .\Decrypt
 
 del /S /Q ..\AG_Translate_Decryptor_CN\Data
@@ -24,3 +25,5 @@ dir/b .\Result\CN > .\Result\TextFiles.txt
 move .\Result\TextFiles.txt Result\CN\TextFiles.txt
 dir/b .\Result\JAP > .\Result\TextFiles.txt
 move .\Result\TextFiles.txt Result\JAP\TextFiles.txt
+dir/b .\Result\TW > .\Result\TextFiles.txt
+move .\Result\TextFiles.txt Result\TW\TextFiles.txt

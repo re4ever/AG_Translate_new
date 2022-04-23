@@ -17899,7 +17899,7 @@ I18nData_Xls_1.xls={
 ["Task_desc_103008"]={id="Task_desc_103008",value="3체의 '알포스α'를 ★4로 만든다."},
 ["Task_desc_103009"]={id="Task_desc_103009",value="1구의 '알포스β'를 ★5로 만든다."},
 ["Task_desc_103010"]={id="Task_desc_103010",value="함체로부터 자원을 다섯 번 받다"},
-["Task_desc_103014"]={id="Task_desc_103014",value="모함으로 AG에 1회 선물을 하다"},
+["Task_desc_103014"]={id="Task_desc_103014",value="총력전 2차진행(중섭)/모함에서 AG에 1회 선물"},
 ["Task_desc_101001"]={id="Task_desc_101001",value="1개의 AG가 Lv.50에 도달하다"},
 ["Task_desc_101002"]={id="Task_desc_101002",value="두 대의 AG가 Lv.50에 도달하다"},
 ["Task_desc_101003"]={id="Task_desc_101003",value="1개의 AG가 Lv.60에 도달하다"},
