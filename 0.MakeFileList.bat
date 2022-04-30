@@ -6,12 +6,16 @@ del /S /Q Result\TW
 
 dir/b .\Source\CN > I18nCNFiles.txt
 dir/b .\Source\JAP > I18nJAPFiles.txt
-dir/b .\Source\JAP > I18nTWFiles.txt
+dir/b .\Source\TW > I18nTWFiles.txt
 
 dir/b .\Source\CN > GuideCNFiles.txt
 dir/b .\Source\JAP > GuideJAPFiles.txt
-dir/b .\Source\JAP > GuideTWFiles.txt
+dir/b .\Source\TW > GuideTWFiles.txt
 
 dir/b .\Source\CN > PlotCNFiles.txt
 dir/b .\Source\JAP > PlotJAPFiles.txt
-dir/b .\Source\JAP > PlotTWFiles.txt
+dir/b .\Source\TW > PlotTWFiles.txt
+
+dir/b .\Source\CN > HelpCNFiles.txt
+dir/b .\Source\JAP > HelpJAPFiles.txt
+dir/b .\Source\TW > HelpTWFiles.txt
