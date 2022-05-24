@@ -18987,7 +18987,7 @@ I18nData_Xls_1.xls={
 ["Avatar_name_4155"]={id="Avatar_name_4155",value="크누드"},
 ["Avatar_approach_4155"]={id="Avatar_approach_4155",value="파이어스토마이너의 리더. 심상치않은 박력의 소유자로, 그녀를 추종하는 방랑자 AG들을 포섭한다."},
 ["Cardpool_Probability_Details"]={id="Cardpool_Probability_Details",value="확률 상세"},
-["Cardpool_SecondConfirm1"]={id="Cardpool_SecondConfirm1",value="%s(을)를 %d장 소비해서 %d회 소집을 진행하시겠습니까?"},
+["Cardpool_SecondConfirm1"]={id="Cardpool_SecondConfirm1",value="{2:%d}회 모집을 위해 {0:%s}장 {1:%d}장을 소모하시겠습니까?"},
 ["Cardpool_SecondConfirm1_Kesshou"]={id="Cardpool_SecondConfirm1_Kesshou",value="%s %d개 소비하여 %d회 소집을 실행하십니까?"},
 ["Cardpool_SecondConfirm2"]={id="Cardpool_SecondConfirm2",value="%s %d 부족, %d%s(을)를 소비해서 %d장의 %s을 구매한 후, %d회 소집을 진행하시겠습니까?"},
 ["Cardpool_SecondConfirm3"]={id="Cardpool_SecondConfirm3",value="%d%s(을)를 구매해서 %d회 소집을 진행하시겠습니까?"},
