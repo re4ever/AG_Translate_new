@@ -36,7 +36,6 @@ uiatlas_ninetasksui
 uiatlas_noviceguideui
 uiatlas_passportui
 uiatlas_passsectionteamui
-uiatlas_rewardtreeui
 uiatlas_ryzaui
 uiatlas_signui
 uiatlas_storeui
