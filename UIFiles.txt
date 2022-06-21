@@ -15,6 +15,7 @@ uiatlas_crusadeui
 uiatlas_dispatchui
 uiatlas_diyui
 uiatlas_drawcardui
+uiatlas_equipdetailui
 uiatlas_exclusiveweaponui
 uiatlas_experienceui
 uiatlas_getrewardsui
@@ -36,6 +37,7 @@ uiatlas_ninetasksui
 uiatlas_noviceguideui
 uiatlas_passportui
 uiatlas_passsectionteamui
+uiatlas_rewardtreeui
 uiatlas_ryzaui
 uiatlas_signui
 uiatlas_storeui
