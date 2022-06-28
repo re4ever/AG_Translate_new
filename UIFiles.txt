@@ -52,4 +52,3 @@ uiatlas_teaminfoui
 uiatlas_threecolortowerui
 uiatlas_upgradesucceededui
 uiatlas_weekbossui
-uiatlas_worldbossui

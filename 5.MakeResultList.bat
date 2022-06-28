@@ -27,3 +27,4 @@ dir/b .\Result\JAP > .\Result\TextFiles.txt
 move .\Result\TextFiles.txt Result\JAP\TextFiles.txt
 dir/b .\Result\TW > .\Result\TextFiles.txt
 move .\Result\TextFiles.txt Result\TW\TextFiles.txt
+dir/b .\Resources\*.* > UIFiles.txt

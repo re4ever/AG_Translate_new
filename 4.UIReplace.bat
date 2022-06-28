@@ -5,5 +5,3 @@ copy ..\AG_ReplaceImg\KOR\uiatlas_*ui .\Source\Resources\KOR\uiatlas_*ui
 dir/b .\Source\Resources\KOR\*ui > Resources.txt
 
 .\bin\AGChangeKorImage.exe .\Resources.txt
-
-dir/b .\Resources\*.* > UIFiles.txt
