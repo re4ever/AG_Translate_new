@@ -16,6 +16,7 @@ uiatlas_dispatchui
 uiatlas_diyui
 uiatlas_drawcardui
 uiatlas_equipdetailui
+uiatlas_equipquickselectui
 uiatlas_exclusiveweaponui
 uiatlas_experienceui
 uiatlas_getrewardsui
