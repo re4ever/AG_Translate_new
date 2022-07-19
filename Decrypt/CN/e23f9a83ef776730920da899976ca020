@@ -2,6 +2,9 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["Charactervoicemain_voiceName_201027043"]={id="Charactervoicemain_voiceName_201027043",value="스킬4"},
+["Charactervoicemain_voiceName_201027044"]={id="Charactervoicemain_voiceName_201027044",value="스킬5"},
+["Charactervoicemain_voiceName_201027045"]={id="Charactervoicemain_voiceName_201027045",value="스킬6"},
 ["Charactervoicemain_voiceName_201027046"]={id="Charactervoicemain_voiceName_201027046",value="대미지1"},
 ["Charactervoicemain_voiceName_201027047"]={id="Charactervoicemain_voiceName_201027047",value="대미지2"},
 ["Charactervoicemain_voiceName_201027048"]={id="Charactervoicemain_voiceName_201027048",value="전투 불능"},
@@ -27899,7 +27902,25 @@ I18nData_Xls_2.xls={
 ["Itemshow_description_41514315"]={id="Itemshow_description_41514315",value="정찰·측량 능력을 갖춘 조준기로 사용자 인근 환경 상황, 지형 특성 등 정보를 기록할 수 있다.더 이상 이런 외곽 정보를 기록하기 위해 애쓰지 않아도 될 만큼 AG들의 수사 업무는 편리하다."},
 ["Itemshow_description_41514316"]={id="Itemshow_description_41514316",value="핵심의 에너지 배분을 보조하는 데 쓰이는 칩은 독특한 알고리즘으로 AG의 에너지 배분을 보조한다.하지만 모든 시간을 칩의 연산 결과를 따르는 것은 아니며, 많은 응급상황이 AG를 필요로 한다."},
 ["CharacterVoice_labelContent_200143065"]={id="CharacterVoice_labelContent_200143065",value="응? 난 너한테 이런 미션을 주선해 준 기억이 없어... 됐어, 그냥 가볍게 다 같이 해!"},
-["CharacterVoice_labelContent_200183064"]={id="CharacterVoice_labelContent_200183064",value="코코넛지 코코넛 한 잔 주세요. 발을 동동 굴릴 정도로 맛있는 회오리 아이스티…. 왜 웃어요?어디가 웃겨? 미션을 다 마쳤으면 여기 어슬렁어슬렁?"}
+["CharacterVoice_labelContent_200183064"]={id="CharacterVoice_labelContent_200183064",value="코코넛지 코코넛 한 잔 주세요. 발을 동동 굴릴 정도로 맛있는 회오리 아이스티…. 왜 웃어요?어디가 웃겨? 미션을 다 마쳤으면 여기 어슬렁어슬렁?"},
+["WorldBoss_newsSingature_108"]={id="WorldBoss_newsSingature_108",value="지난주 전보"},
+["WorldBoss_newsSingature_109"]={id="WorldBoss_newsSingature_109",value="지난주 전보"},
+["WorldBoss_newsSingature_110"]={id="WorldBoss_newsSingature_110",value="지난주 전보"},
+["WorldBoss_newsSingature_111"]={id="WorldBoss_newsSingature_111",value="지난주 전보"},
+["WorldBoss_newsSingature_112"]={id="WorldBoss_newsSingature_112",value="지난주 전보"},
+["WorldBoss_newsSingature_113"]={id="WorldBoss_newsSingature_113",value="지난주 전보"},
+["WorldBoss_newsSingature_114"]={id="WorldBoss_newsSingature_114",value="지난주 전보"},
+["WorldBoss_newsSingature_115"]={id="WorldBoss_newsSingature_115",value="지난주 전보"},
+["WorldBoss_newsSingature_116"]={id="WorldBoss_newsSingature_116",value="지난주 전보"},
+["WorldBoss_newsWord_108"]={id="WorldBoss_newsWord_108",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_109"]={id="WorldBoss_newsWord_109",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_110"]={id="WorldBoss_newsWord_110",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_111"]={id="WorldBoss_newsWord_111",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_112"]={id="WorldBoss_newsWord_112",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_113"]={id="WorldBoss_newsWord_113",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_114"]={id="WorldBoss_newsWord_114",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_115"]={id="WorldBoss_newsWord_115",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."},
+["WorldBoss_newsWord_116"]={id="WorldBoss_newsWord_116",value="치열한 각축 끝에 링거 류싱야오를 가장 많이 꺾은 지휘관이 나타났다.승자는 어떤 귀중한 경험을 전수받았는가."}
 }
 function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]
