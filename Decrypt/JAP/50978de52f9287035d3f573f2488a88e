@@ -1597,6 +1597,10 @@ function PlotData_Xls.GetExcelData(id)
 	if rtval then
 		return rtval
 	end
+	rtval = PlotData_Xls_24.GetExcelData(id)
+	if rtval then
+		return rtval
+	end
 	local data = PlotData_Xls.xls[tostring(id)]
 	if CONST.LOG_DEBUG and data == nil then logWarn("Excel表 <color=yellow>PlotData_Xls</color> 找不到 ID: <color=yellow>"..tostring(id).."</color> 这只是个警告，帮助查错。没bug无视他! (By龙波)") end
 	return data
