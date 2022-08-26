@@ -23922,7 +23922,7 @@ I18nData_Xls_2.xls={
 ["Neterrormsg_msg_20015"]={id="Neterrormsg_msg_20015",value="동맹등급이 5등급에 못 미쳐 열리지 않는다."},
 ["Neterrormsg_msg_20016"]={id="Neterrormsg_msg_20016",value="동맹 회원 수가 21명에 못 미쳐 열리지 않는다."},
 ["Neterrormsg_msg_20017"]={id="Neterrormsg_msg_20017",value="공격 횟수가 이미 상한에 이르러 다시 공격할 수 없다."},
-["Neterrormsg_msg_20018"]={id="Neterrormsg_msg_20018",value="초기화 중이며, 총 1시간 정도 소요됩니다."},
+["Neterrormsg_msg_20018"]={id="Neterrormsg_msg_20018",value="초기화 중입니다. 잠시 후 다시 시도하십시오."},
 ["In_GuildGvg"]={id="In_GuildGvg",value="훈련 중"},
 ["material_not_available_tip_10"]={id="material_not_available_tip_10",value="연합 훈련 수비대의 전희를 소재로 삼을 수 없다."},
 ["Itemshow_name_1080"]={id="Itemshow_name_1080",value="호투공훈장"},
