@@ -14409,7 +14409,7 @@ I18nData_Xls_2.xls={
 ["Itemshow_description_49013016"]={id="Itemshow_description_49013016",value="흔한 나노칩이지만, AG의 공격력을 추가로 향상시킬 수 있다.이 칩을 장비한 AG는 적에게 보다 많은 대미지를 주고 팔씨름에도 강해진다."},
 ["Itemshow_name_60011001"]={id="Itemshow_name_60011001",value="컴백 동력 보충"},
 ["Itemshow_name_60011002"]={id="Itemshow_name_60011002",value="컴백 물자 보급"},
-["Itemshow_name_60011003"]={id="Itemshow_name_60011003",value="컴백 특별장비"},
+["Itemshow_name_60011003"]={id="Itemshow_name_60011003",value="귀함특급전속무장보충함"},
 ["Itemshow_name_60011004"]={id="Itemshow_name_60011004",value="컴백 육성 응원"},
 ["MultiDayGift_rewarddetails"]={id="MultiDayGift_rewarddetails",value="보상 상세"},
 ["MultiDayGift_titledaysremaining"]={id="MultiDayGift_titledaysremaining",value="【%s】나머지 <color=#ffdd22>%d</color>일"},
