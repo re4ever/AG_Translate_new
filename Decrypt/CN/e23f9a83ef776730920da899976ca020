@@ -25568,7 +25568,7 @@ I18nData_Xls_2.xls={
 ["CharacterVoice_labelContent_200081122"]={id="CharacterVoice_labelContent_200081122",value="내가 안 보는 틈을 내 타 반찬 다 빼었부랐노, 수라 니 진짜 못됐다. 이건 용서할 수 없다 아이가."},
 ["CharacterVoice_labelContent_200081123"]={id="CharacterVoice_labelContent_200081123",value="누군가 부엌을 쓰고 있네? 타이밍이 안 좋다 안 좋아."},
 ["CharacterVoice_labelContent_200081124"]={id="CharacterVoice_labelContent_200081124",value="언니들이 도와주려고 했긴 했는데, 이건 내가 지휘관을 위한 초코 아이가. 그래서 거절한기라."},
-["CharacterVoice_labelContent_200015069"]={id="CharacterVoice_labelContent_200015069",value="당신이 누구든 나에게 임무 메시지를 잘 체크해라. 전선의 안정은 당신의 힘을 필요로 한다."},
+["CharacterVoice_labelContent_200015069"]={id="CharacterVoice_labelContent_200015069",value="설령 당신이라도 임무의 세부사항은 꼼꼼히 살펴보도록.프론티어는 너의 힘이 필요해."},
 ["HandBookEvent_locktips_90228001"]={id="HandBookEvent_locktips_90228001",value="파멸로의 재생 1-BBS1 클리어 후 해방"},
 ["HandBookEvent_locktips_90228002"]={id="HandBookEvent_locktips_90228002",value="파멸로의 재생 1-BBS2 클리어 후 해방"},
 ["HandBookEvent_locktips_90228003"]={id="HandBookEvent_locktips_90228003",value="파멸로의 재생 1-BBS3 클리어 후 해방"},

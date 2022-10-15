@@ -3,6 +3,7 @@
 del /Q Result\CN\TextFiles.txt
 del /Q Result\JAP\TextFiles.txt
 del /Q Result\TW\TextFiles.txt
+del /Q Result\EN\TextFiles.txt
 del /S /Q .\Decrypt
 
 del /S /Q ..\AG_Translate_Decryptor_CN\Data
@@ -24,6 +25,8 @@ copy ..\AG_Translate_Decryptor_JAP\Result\DecryptData\*.* .\Decrypt\JAP\*.*
 del /S /Q ..\AG_Replace_Text_CN\Data\*.*
 del /S /Q ..\AG_Replace_Text_JAP\Data\*.*
 del /S /Q ..\AG_Replace_Text_TW\Data\*.*
+del /S /Q ..\AG_Replace_Text_EN\Data\*.*
 copy .\Result\CN\*.* ..\AG_Replace_Text_CN\Data\*.*
 copy .\Result\JAP\*.* ..\AG_Replace_Text_JAP\Data\*.*
 copy .\Result\TW\*.* ..\AG_Replace_Text_TW\Data\*.*
+copy .\Result\EN\*.* ..\AG_Replace_Text_EN\Data\*.*
