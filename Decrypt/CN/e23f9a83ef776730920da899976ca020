@@ -30006,3 +30006,4 @@ function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]
 	return data
 end
+return I18nData_Xls_2
