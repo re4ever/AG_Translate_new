@@ -3646,4 +3646,3 @@ function I18nData_Xls_3.GetExcelData(id)
 	local data = I18nData_Xls_3.xls[tostring(id)]
 	return data
 end
-return I18nData_Xls_3
