@@ -29886,7 +29886,7 @@ I18nData_Xls_2.xls={
 ["Goods_note_91251338"]={id="Goods_note_91251338",value="주년 기념·호화 AG 셀렉트 팩"},
 ["Goods_note_91251339"]={id="Goods_note_91251339",value="주년 기념·특가 AG 셀렉트 팩"},
 ["Itemshow_name_60010020"]={id="Itemshow_name_60010020",value="AG 소집 지령·★5"},
-["Itemshow_description_60010020"]={id="Itemshow_description_60010020",value="사용하면, 지정 범위내에서 ★5AG를 1명 선택해, 획득한다."},
+["Itemshow_description_60010020"]={id="Itemshow_description_60010020",value="사용하면 지정범위 내에서 ★ 5AG를 1명 선택하여 획득한다: 니나, 수라, 크림, 시리우스, 레위시아, 밀바스, 펀텀, 히알린, 수리엘, 긴가, 고스트, 篝, 토이펠, 퀸, 미셸, 베니, 호쿠토, 시노부, 리디아, 토우카, 신디, 크누즈, 로베리아, 베로니카, 빅토리아, 이자벨, 위"},
 ["Timeeventsub_lockDes_117"]={id="Timeeventsub_lockDes_117",value="이벤트 3-FAS4 투명하고 해방"},
 ["Timeeventchapter_chapterTitle_8801"]={id="Timeeventchapter_chapterTitle_8801",value="장갑 경기장 I"},
 ["Timeeventchapter_chapterTitle_8802"]={id="Timeeventchapter_chapterTitle_8802",value="장갑 경기장 II"},

@@ -7612,7 +7612,7 @@ I18nData_Xls_1.xls={
 ["Itemshow_description_60010009"]={id="Itemshow_description_60010009",value="이하의 ★5AG부터 랜덤으로 1명 획득"},
 ["Itemshow_description_60010010"]={id="Itemshow_description_60010010",value="이하의 ★5AG부터 랜덤으로 1명 획득"},
 ["Itemshow_description_60010011"]={id="Itemshow_description_60010011",value="이하의 ★5AG부터 랜덤으로 1명 획득"},
-["Itemshow_description_60010012"]={id="Itemshow_description_60010012",value="사용하면 지정 범위 내에서 ★4AG를 1명 선택하여 획득한다."},
+["Itemshow_description_60010012"]={id="Itemshow_description_60010012",value="사용하면 지정 범위 내에서 ★4AG를 1명 선택하여 획득한다: 봉봉(전투용 유닛), 제로욘, 실비아, 페이디, 네이사, 토니, 고야, 에리카, 딘, 마이카, 코락스, 셀루리안, 피비, 티안테, 유키코, 유리, 델라, 캐시, 치하야, 치토세, 베르베나, 앨리스, 네모필라, 샬롯, 쿠루미, 이벨리스, 아카시아, 안젤리카, 로즈마리, 모리스, 발레리아, 페페"},
 ["Itemshow_description_60010014"]={id="Itemshow_description_60010014",value="이하의 ★5 AG에서 랜덤으로 1명 획득"},
 ["Itemshow_description_60010015"]={id="Itemshow_description_60010015",value="이하의 ★5 AG에서 랜덤으로 1명 획득"},
 ["Itemshow_description_60010016"]={id="Itemshow_description_60010016",value="아래 AG로부터 1체 획득: 네모필라, 로즈마리, 안젤리카, 실비아, 샤롯데, 로이즈, 베르베나, 아카시아"},
