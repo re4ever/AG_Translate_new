@@ -2,6 +2,10 @@
 
 I18nData_Xls_1={}
 I18nData_Xls_1.xls={
+["threecolortower_go"]={id="threecolortower_go",value="작전으로"},
+["threecolortower_enemytip"]={id="threecolortower_enemytip",value="적 정보"},
+["threecolortower_limittip"]={id="threecolortower_limittip",value="제한 조건"},
+["threecolortower_rewardtip"]={id="threecolortower_rewardtip",value="메인 보상"},
 ["threecolorteamselect_tip2"]={id="threecolorteamselect_tip2",value="부대에 조건에 들어맞지 않는 AG가 있습니다"},
 ["threecolortower_efficacy"]={id="threecolortower_efficacy",value="효과"},
 ["threecolortower_passsectionteam"]={id="threecolortower_passsectionteam",value="클리어 부대"},
@@ -9806,7 +9810,7 @@ I18nData_Xls_1.xls={
 ["CharacterVoice_labelContent_200043004"]={id="CharacterVoice_labelContent_200043004",value="안녕, 지휘관. 오늘 예정은 어떻게 되지?"},
 ["CharacterVoice_labelContent_200043005"]={id="CharacterVoice_labelContent_200043005",value="오늘은 출격하지 않는 건가? 아직 남아있는 업무가 있다고? 그까짓 거 내일 해도 되잖아."},
 ["CharacterVoice_labelContent_200043006"]={id="CharacterVoice_labelContent_200043006",value="이 무기가 멋있다고? 하지만 이 정도는 아무것도 아냐. 그렇지 않아도 파이어스토마이너에 개조를 부탁해 보려던 참이야."},
-["CharacterVoice_labelContent_200043007"]={id="CharacterVoice_labelContent_200043007",value="내 과거? 다른 녀석들과 똑같아. AG로 개조된 후, 프론티어에 의해 전선으로 내보내졌지… 다들 그렇지 않나?"},
+["CharacterVoice_labelContent_200043007"]={id="CharacterVoice_labelContent_200043007",value="내 과거? 다른 사람과 똑같아, AG(에이지)로 개조되어 프론티어에서 전선으로 파견되었다던가...대략 그런거야!"},
 ["CharacterVoice_labelContent_200043008"]={id="CharacterVoice_labelContent_200043008",value="응? 또 무슨 일이지? 지휘관은 나에 대해서 궁금한 게 많은 모양이군. 하지만 난 언젠가 사라지게 될 거야. …아, 방금 한 말은 농담이니 신경 쓰지 마."},
 ["CharacterVoice_labelContent_200043009"]={id="CharacterVoice_labelContent_200043009",value="세이란을 무서워한 게 아니라, 난 그저 그녀가 풍속화에 나오는 귀부인같이 품위 있는 태도를 갖추고 있었기 때문에 가까이하기 어려웠던 것뿐이야. 헤헤, 내 비유 어때?"},
 ["CharacterVoice_labelContent_200043010"]={id="CharacterVoice_labelContent_200043010",value="홍련, 아아 홍련, 홍련아… 이 시조 어때? 꽤 괜찮지? 뭐, 이건 시조가 아니라고? 홍련은 정말 아무것도 모르는군."},
@@ -10309,11 +10313,11 @@ I18nData_Xls_1.xls={
 ["CharacterVoice_labelContent_200052047"]={id="CharacterVoice_labelContent_200052047",value="악!"},
 ["CharacterVoice_labelContent_200052048"]={id="CharacterVoice_labelContent_200052048",value="윽… 걱정해줘서 감사합니다. 하지만, 괜찮아요. 아직 싸울 수 있어요…"},
 ["CharacterVoice_labelContent_200052049"]={id="CharacterVoice_labelContent_200052049",value="죄송해요, 전부 제 책임입니다. 여러분에게는 잘못이 없어요..."},
-["CharacterVoice_labelContent_200052050"]={id="CharacterVoice_labelContent_200052050",value="전투 종료… 다친 사람은 없나요? 저한테는 여러분이 무사한 것이 가장 중요합니다."},
+["CharacterVoice_labelContent_200052050"]={id="CharacterVoice_labelContent_200052050",value="전투 종료… 부상자는 있습니까?저에게 있어서, 여러분이 무사한 것이 제일입니다."},
 ["CharacterVoice_labelContent_200052051"]={id="CharacterVoice_labelContent_200052051",value="싸움의 비결 말인가요? 그런 건 없어요. 절 강하게 만든 것은 바로 “의지”입니다."},
 ["CharacterVoice_labelContent_200052052"]={id="CharacterVoice_labelContent_200052052",value="조심해서 이 힘을 사용할 테니 걱정하지 마세요."},
 ["CharacterVoice_labelContent_200052053"]={id="CharacterVoice_labelContent_200052053",value="알겠습니다. 지휘관과 모두를 위해서 앞으로도 열심히 노력하겠습니다."},
-["CharacterVoice_labelContent_200052054"]={id="CharacterVoice_labelContent_200052054",value="홍련으로부터 싸움의 의미를 배우게 됐고, 지휘관으로부터 살아가는 의미를 배울 수 있었습니다. 그 은혜를 칼에 새겨 저를 더욱 강하게 만들어 줄 “의지”로 삼겠습니다."},
+["CharacterVoice_labelContent_200052054"]={id="CharacterVoice_labelContent_200052054",value="홍련이 싸움의 의미를 알려주고 지휘관이 삶의 의미를 알려주었습니다.그 은혜를 칼에 새기고…그것이야말로 나를 더욱 강하게 만드는 '의지'입니다."},
 ["CharacterVoice_labelContent_200052055"]={id="CharacterVoice_labelContent_200052055",value="설명하기는 어렵지만 지휘관과 홍련은 왠지 닮은 것 같아요…"},
 ["CharacterVoice_labelContent_200052056"]={id="CharacterVoice_labelContent_200052056",value="지휘관이라면 뭔가 알려줄 것 같아요… 그 언젠가의 홍련처럼 말이죠..."},
 ["CharacterVoice_labelContent_200052057"]={id="CharacterVoice_labelContent_200052057",value="맞아요. 싸움이란 무엇인가에 대해서 알려준 것이 홍련이랍니다."},
@@ -10333,7 +10337,7 @@ I18nData_Xls_1.xls={
 ["CharacterVoice_labelContent_200052071"]={id="CharacterVoice_labelContent_200052071",value="지휘관이라면 뭔가 알려줄 것 같다는 말, 예전에 했었죠? 그게 뭔지 이제 알 것 같아요."},
 ["CharacterVoice_labelContent_200052072"]={id="CharacterVoice_labelContent_200052072",value="지휘관은 전투 이외에 평온한 삶을 즐기는 법을 가르쳐 주었어요. 그리고 자신감을 가지고 동료들과 솔직하게 이야기하는 법도 가르쳐 주었죠."},
 ["CharacterVoice_labelContent_200052073"]={id="CharacterVoice_labelContent_200052073",value="그 모든 것이 저를 행복하게 해주었답니다. 모두 지휘관 덕분이에요."},
-["CharacterVoice_labelContent_200052074"]={id="CharacterVoice_labelContent_200052074",value="제게 살아가는 의미를 알려준 지휘관에게 이 그림을 선물하고 싶어요. 아마도 이게 지휘관에게 가장 어울리는 선물인 것 같아요."},
+["CharacterVoice_labelContent_200052074"]={id="CharacterVoice_labelContent_200052074",value="나에게 '산다'의 의미를 가르쳐 준 지휘관에게는 이 족자를 주고 싶습니다.그게 제일 어울리는 선물이냐고."},
 ["CharacterVoice_labelContent_200053001"]={id="CharacterVoice_labelContent_200053001",value="아터리 기어."},
 ["CharacterVoice_labelContent_200053002"]={id="CharacterVoice_labelContent_200053002",value="세계에서 가장 아름다운 “하르퓨이아”의 파보니스가 납셨다. 모델번호나 기종 같은 건 아무래도 좋으니 다들 이 “브릴리언트 파보”의 명성을 찬양하기나 해!"},
 ["CharacterVoice_labelContent_200053003"]={id="CharacterVoice_labelContent_200053003",value="응? 일을 재개하는 건가? 좋아, 근면 성실한 건 좋은 거니까."},
@@ -19737,7 +19741,6 @@ I18nData_Xls_1.xls={
 ["Showag_code_100000580"]={id="Showag_code_100000580",value="AGH-01"},
 ["Showag_code_100200580"]={id="Showag_code_100200580",value="AGH-01"},
 ["Showag_code_100000590"]={id="Showag_code_100000590",value="AGH-02"},
-["Showag_code_100000600"]={id="Showag_code_100000600",value="AGH-00"},
 ["Showag_code_100000610"]={id="Showag_code_100000610",value="AGK-05"},
 ["Showag_code_100000620"]={id="Showag_code_100000620",value="AGK-00"},
 ["Showag_code_100000621"]={id="Showag_code_100000621",value="AGK-00"},
@@ -20000,7 +20003,6 @@ I18nData_Xls_1.xls={
 ["Showag_birthday_100000580"]={id="Showag_birthday_100000580",value="6월 6일"},
 ["Showag_birthday_100200580"]={id="Showag_birthday_100200580",value="6월 6일"},
 ["Showag_birthday_100000590"]={id="Showag_birthday_100000590",value="6월 6일"},
-["Showag_birthday_100000600"]={id="Showag_birthday_100000600",value="0"},
 ["Showag_birthday_100000610"]={id="Showag_birthday_100000610",value="1월 29일"},
 ["Showag_birthday_100000620"]={id="Showag_birthday_100000620",value="12월 5일"},
 ["Showag_birthday_100000621"]={id="Showag_birthday_100000621",value="12월 5일"},
@@ -29890,8 +29892,6 @@ I18nData_Xls_1.xls={
 ["Charactervoicemain_voiceName_201093037"]={id="Charactervoicemain_voiceName_201093037",value="욕실3"},
 ["Charactervoicemain_voiceName_201093038"]={id="Charactervoicemain_voiceName_201093038",value="리더"},
 ["Charactervoicemain_voiceName_201093039"]={id="Charactervoicemain_voiceName_201093039",value="대답"},
-["Charactervoicemain_voiceName_201093040"]={id="Charactervoicemain_voiceName_201093040",value="스킬1"},
-["Charactervoicemain_voiceName_201093041"]={id="Charactervoicemain_voiceName_201093041",value="스킬2"},
 }
 function I18nData_Xls_1.GetExcelData(id)
 	local data = I18nData_Xls_1.xls[tostring(id)]
