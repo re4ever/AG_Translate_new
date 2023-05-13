@@ -14,8 +14,3 @@ dir/b .\Source\CN > PlotCNFiles.txt
 dir/b .\Source\JAP > PlotJAPFiles.txt
 dir/b .\Source\TW > PlotTWFiles.txt
 dir/b .\Source\KOR > PlotKORFiles.txt
-
-dir/b .\Source\CN > HelpCNFiles.txt
-dir/b .\Source\JAP > HelpJAPFiles.txt
-dir/b .\Source\TW > HelpTWFiles.txt
-dir/b .\Source\KOR > HelpKORFiles.txt
