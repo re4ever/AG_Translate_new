@@ -6887,7 +6887,7 @@ I18nData_Xls_3.xls={
 ["Itemshow_description_60000721"]={id="Itemshow_description_60000721",value="라운드 전투로 획득한 대형 보물 상자."},
 ["Itemshow_description_60000722"]={id="Itemshow_description_60000722",value="라운드 전투로 획득한 중형 보물 상자."},
 ["Itemshow_description_60000723"]={id="Itemshow_description_60000723",value="라운드 전투로 획득한 소형 보물 상자."},
-["Itemshow_description_60000724"]={id="Itemshow_description_60000724",value="랜덤으로 재료가 담긴 소형 뽑기 기계. 5%의 확률로 랜덤으로 ★ 4슈퍼 냥봇을 획득할 수도 있습니다."},
+["Itemshow_description_60000724"]={id="Itemshow_description_60000724",value="무작위 재료가 포함된 소형 계란 비틀기는 무작위로 4성 슈퍼 캣볼도 얻을 수 있으며 각 캣볼의 생산 확률은 16.7%입니다."},
 ["Itemshow_description_60000725"]={id="Itemshow_description_60000725",value="랜덤으로 슈퍼 냥봇이 담긴 대형 뽑기 기계. ★ 5냥봇 획득 확률 5%, ★ 4냥봇 획득 확률 25%, ★ 3냥봇 획득 확률 70%."},
 ["Intensifystone_name_60000311"]={id="Intensifystone_name_60000311",value="업그레이드에 도움을 줄 수 있는 초급 아이템."},
 ["Intensifystone_name_60000312"]={id="Intensifystone_name_60000312",value="업그레이드에 도움을 줄 수 있는 중급 아이템."},
