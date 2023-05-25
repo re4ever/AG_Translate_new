@@ -15520,7 +15520,10 @@ I18nData_Xls_3.xls={
 ["HandBookCGEvent_BgInfo_20510001"]={id="HandBookCGEvent_BgInfo_20510001",value="빛의 중심, 다시 만나자."},
 ["HandBookCGEvent_Locktips_20510001"]={id="HandBookCGEvent_Locktips_20510001",value="3-'루멘 화해' 완료 후 잠금 해제"},
 ["CharacterVoice_labelContent_200007073"]={id="CharacterVoice_labelContent_200007073",value="“…어차피…당신들과 다시 만날 다른 기회는 없어요.”"},
-["CharacterVoice_labelContent_200201066"]={id="CharacterVoice_labelContent_200201066",value="“넷째! 다시 팀 복귀!”"}
+["CharacterVoice_labelContent_200201066"]={id="CharacterVoice_labelContent_200201066",value="“넷째! 다시 팀 복귀!”"},
+["ui_WorldBoss_name7"]={id="ui_WorldBoss_name7",value="《어두운 명투암》카밤"},
+["ui_WorldBoss_name8"]={id="ui_WorldBoss_name8",value="잠룡복호 카밤"},
+["ui_WorldBoss_name9"]={id="ui_WorldBoss_name9",value="'철마금고' 카밤"}
 }
 function I18nData_Xls_3.GetExcelData(id)
 	local data = I18nData_Xls_3.xls[tostring(id)]
