@@ -4186,7 +4186,7 @@ I18nData_Xls_3.xls={
 ["Itemshow_name_1702"]={id="Itemshow_name_1702",value="일반 프로젝트"},
 ["Itemshow_description_1702"]={id="Itemshow_description_1702",value="함대 계획에서 일반적인 교환으로 사용할 수 있습니다. <color=#c70016> 유효기간이 지난 기간한정 프로젝트는 자동으로 일반 프로젝트로 변환됩니다. </color>"},
 ["Itemshow_name_1703"]={id="Itemshow_name_1703",value="계획 자료 1"},
-["Itemshow_description_1703"]={id="Itemshow_description_1703",value="함대 계획에서 일반적인 교환으로 사용할 수 있습니다. <color=#c70016> 유효기간 2023/6/8 04:59:00이후 자동으로 일반 프로젝트로 변환됩니다. </color>"},
+["Itemshow_description_1703"]={id="Itemshow_description_1703",value="함대 계획에서 일반적인 교환으로 사용할 수 있습니다. <color=#c70016> 유효기간 2023/8/31 04:59이후 자동으로 일반 프로젝트로 변환됩니다. </color>"},
 ["Goods_note_91801001"]={id="Goods_note_91801001",value="인자화 니오 조각"},
 ["Goods_note_91801002"]={id="Goods_note_91801002",value="일반 프로젝트"},
 ["Goods_note_91801003"]={id="Goods_note_91801003",value="전용 장비 소재 지정 상자"},
