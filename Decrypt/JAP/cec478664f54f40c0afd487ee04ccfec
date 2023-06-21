@@ -23427,7 +23427,7 @@ I18nData_Xls_1.xls={
 ["tipi18n_nolimit"]={id="tipi18n_nolimit",value="-무제한-"},
 ["tipi18n_shengyuzeronum"]={id="tipi18n_shengyuzeronum",value="잔여 구매 횟수: 0"},
 ["tipi18n_shengyunum1"]={id="tipi18n_shengyunum1",value="잔여 구매 횟수:"},
-["tipi18n_LTstoreinittime"]={id="tipi18n_LTstoreinittime",value="\“0시간 0분 0초\”"},
+["tipi18n_LTstoreinittime"]={id="tipi18n_LTstoreinittime",value="0시간 0분 0초”"},
 ["tipi18n_storeshengyu"]={id="tipi18n_storeshengyu",value="잔여"},
 ["tipi18n_storeday"]={id="tipi18n_storeday",value="일"},
 ["tipi18n_isfull"]={id="tipi18n_isfull",value="상한에 도달"},
