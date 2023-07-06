@@ -2,6 +2,10 @@
 
 I18nData_Xls_1={}
 I18nData_Xls_1.xls={
+["Skillshow_featureLabel_12003230"]={id="Skillshow_featureLabel_12003230",value="데이터가 없습니다"},
+["Skillshow_featureLabel_12003410"]={id="Skillshow_featureLabel_12003410",value="데이터가 없습니다"},
+["Skillshow_featureLabel_12003420"]={id="Skillshow_featureLabel_12003420",value="레드 피어싱"},
+["Skillshow_featureLabel_12003430"]={id="Skillshow_featureLabel_12003430",value="데이터가 없습니다"},
 ["Skillshow_featureLabel_12003510"]={id="Skillshow_featureLabel_12003510",value="데이터가 없습니다"},
 ["Skillshow_featureLabel_12003530"]={id="Skillshow_featureLabel_12003530",value="홍련의 춤"},
 ["Skillshow_featureLabel_12003610"]={id="Skillshow_featureLabel_12003610",value="데이터가 없습니다"},
@@ -29889,10 +29893,6 @@ I18nData_Xls_1.xls={
 ["Charactervoicemain_voiceName_201067035"]={id="Charactervoicemain_voiceName_201067035",value="목욕1"},
 ["Charactervoicemain_voiceName_201067036"]={id="Charactervoicemain_voiceName_201067036",value="목욕2"},
 ["Charactervoicemain_voiceName_201067037"]={id="Charactervoicemain_voiceName_201067037",value="목욕 3"},
-["Charactervoicemain_voiceName_201067038"]={id="Charactervoicemain_voiceName_201067038",value="리더"},
-["Charactervoicemain_voiceName_201067039"]={id="Charactervoicemain_voiceName_201067039",value="대답"},
-["Charactervoicemain_voiceName_201067040"]={id="Charactervoicemain_voiceName_201067040",value="스킬1"},
-["Charactervoicemain_voiceName_201067041"]={id="Charactervoicemain_voiceName_201067041",value="스킬2"},
 }
 function I18nData_Xls_1.GetExcelData(id)
 	local data = I18nData_Xls_1.xls[tostring(id)]

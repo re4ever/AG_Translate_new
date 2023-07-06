@@ -2,6 +2,10 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["Charactervoicemain_voiceName_201067038"]={id="Charactervoicemain_voiceName_201067038",value="리더"},
+["Charactervoicemain_voiceName_201067039"]={id="Charactervoicemain_voiceName_201067039",value="대답"},
+["Charactervoicemain_voiceName_201067040"]={id="Charactervoicemain_voiceName_201067040",value="스킬1"},
+["Charactervoicemain_voiceName_201067041"]={id="Charactervoicemain_voiceName_201067041",value="스킬2"},
 ["Charactervoicemain_voiceName_201067042"]={id="Charactervoicemain_voiceName_201067042",value="스킬3"},
 ["Charactervoicemain_voiceName_201067043"]={id="Charactervoicemain_voiceName_201067043",value="스킬4"},
 ["Charactervoicemain_voiceName_201067044"]={id="Charactervoicemain_voiceName_201067044",value="스킬5"},
@@ -29997,10 +30001,6 @@ I18nData_Xls_2.xls={
 ["Showag_agIntro_100000822"]={id="Showag_agIntro_100000822",value="하르퓨이아의 6호기로, 대대적인 신체 개조가 이루어졌다. 하르퓨이아의 다른 파츠을 활용한 신축자재의 강철 손톱으로 싸운다.\n실력은 있지만, 전투 스타일이 잔인하고 성격이 급해서 다른 사람과의 협력이 어려울 뿐만 아니라, 동료들 사이에서도 크고 작은 문제를 일으킨다. 그녀의 대인관계에 있어서는 신중을 기할 필요가 있다."},
 ["Showag_agFormIntro_100000822"]={id="Showag_agFormIntro_100000822",value="콘도르는 전체 대상에게 방어력 감소 상태를 부여할 수 있다. 연속적인 전체 공격으로 대량의 대미지를 준다."},
 ["Showag_agCV_100000822"]={id="Showag_agCV_100000822",value="히카사 요코"},
-["Showag_agPainter_100000822"]={id="Showag_agPainter_100000822",value="——"},
-["Showag_agTeam_100000822"]={id="Showag_agTeam_100000822",value="——"},
-["Showag_agCareer_100000822"]={id="Showag_agCareer_100000822",value="——"},
-["Showag_code_100000822"]={id="Showag_code_100000822",value="AGR-06"},
 }
 function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]
