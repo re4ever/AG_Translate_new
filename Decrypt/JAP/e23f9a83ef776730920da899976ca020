@@ -26585,7 +26585,7 @@ I18nData_Xls_2.xls={
 ["CharacterTask_desc_100014"]={id="CharacterTask_desc_100014",value="임의의 AG 한계 돌파를 5회"},
 ["CharacterTask_desc_100015"]={id="CharacterTask_desc_100015",value="[특별 데이터 단말]을 10개 내"},
 ["CharacterTask_desc_100016"]={id="CharacterTask_desc_100016",value="900000 코인 제출"},
-["CharacterTask_desc_300001"]={id="CharacterTask_desc_300001",value="특별 데이터 단말기\'를 5개 제출"},
+["CharacterTask_desc_300001"]={id="CharacterTask_desc_300001",value="임의 '파견' 15회 완료"},
 ["CharacterTask_dialogue_10001"]={id="CharacterTask_dialogue_10001",value="이 나를 거느리고 싶다면 팔풀이로 이 나를 설득하라. 백번 대전이라도 가자구."},
 ["CharacterTask_dialogue_10002"]={id="CharacterTask_dialogue_10002",value="오토루나의 체제는 겉치레 뿐이야. 뭐.. 생각은 달라도 그 사람들의 기술은 손에 넣고 싶네... 일단 통천항에서 있던 사건부터 조사합시다."},
 ["CharacterTask_dialogue_10003"]={id="CharacterTask_dialogue_10003",value="괴뢰전쟁은 결국 사람과 사람의 다툼이야. 적과 나 자신을 진정으로 안다면 반드시 이길 수 있다."},
