@@ -21560,7 +21560,7 @@ I18nData_Xls_3.xls={
 ["Itemshow_description_60000654"]={id="Itemshow_description_60000654",value="사용 시 무스XXL 1개 획득"},
 ["Itemshow_name_60000653"]={id="Itemshow_name_60000653",value="알포스β 보급상자"},
 ["Itemshow_description_60000653"]={id="Itemshow_description_60000653",value="사용 시 알포스β 1개 획득"},
-["replayEvent_Countdown"]={id="replayEvent_Countdown",value="카운트다운"},
+["replayEvent_Countdown"]={id="replayEvent_Countdown",value="오픈 시간까지"},
 ["charge"]={id="charge",value="충전"},
 ["PayMent_goodsName_1095"]={id="PayMent_goodsName_1095",value="귀함 전용 무장 보충함"},
 ["PayMent_goodsDes_1095"]={id="PayMent_goodsDes_1095",value="귀함 전용 무장 보충함"},
