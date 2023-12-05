@@ -10124,7 +10124,7 @@ I18nData_Xls_3.xls={
 ["BattlePassNew_UI_task_3"]={id="BattlePassNew_UI_task_3",value="수령 완료"},
 ["BattlePassNew_UI_shop_1"]={id="BattlePassNew_UI_shop_1",value="기간 한정 교환"},
 ["BattlePassNew_UI_shop_2"]={id="BattlePassNew_UI_shop_2",value="일반 교환"},
-["BattlePassNew_UI_shop_explain_1_1"]={id="BattlePassNew_UI_shop_explain_1_1",value="[프로젝트 데이터δ]을 수집하여 기간 한정 보상을 교환해 보세요."},
+["BattlePassNew_UI_shop_explain_1_1"]={id="BattlePassNew_UI_shop_explain_1_1",value="[계획자료 ε]를 수집하고 환전을 제한시간 내에 보상한다."},
 ["BattlePassNew_UI_shop_explain_1_2"]={id="BattlePassNew_UI_shop_explain_1_2",value="함대 프로젝트 오픈 시 교환할 수 있습니다."},
 ["BattlePassNew_UI_shop_explain_2_1"]={id="BattlePassNew_UI_shop_explain_2_1",value="[일반 프로젝트 데이터]를 사용해 프리미엄 보상을 교환해 보세요."},
 ["BattlePassNew_UI_shop_explain_2_2"]={id="BattlePassNew_UI_shop_explain_2_2",value="함대 프로젝트 오픈 시 교환할 수 있습니다."},
