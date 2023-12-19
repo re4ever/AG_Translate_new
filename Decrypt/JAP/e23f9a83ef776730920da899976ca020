@@ -27301,7 +27301,7 @@ I18nData_Xls_2.xls={
 ["GuildGvgSwitchInfo"]={id="GuildGvgSwitchInfo",value="연합 훈련 단계가 업데이트되었습니다."},
 ["Task_title_103022"]={id="Task_title_103022",value="매일 임무: 보급 회수"},
 ["Task_desc_103022"]={id="Task_desc_103022",value="보급함에서 자원을 1회 회수하다"},
-["Task_title_103023"]={id="Task_title_103023",value="매일 임무: 준비 운동"},
+["Task_title_103023"]={id="Task_title_103023",value="주간 미션: 캣츠볼 난제 레벨업"},
 ["Task_desc_103023"]={id="Task_desc_103023",value="100 동력을 소비"},
 ["Showag_symbol_100000411"]={id="Showag_symbol_100000411",value="블래스트 페전트"},
 ["Showag_name_100000411"]={id="Showag_name_100000411",value="피비"},
