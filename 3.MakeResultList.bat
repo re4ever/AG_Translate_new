@@ -15,9 +15,9 @@ copy .\Result\CN\*.* ..\AG_Translate_Decryptor_CN\Data\*.*
 copy .\Result\JAP\*.* ..\AG_Translate_Decryptor_JAP\Data\*.*
 
 dir/b ..\AG_Translate_Decryptor_CN\Data > ..\AG_Translate_Decryptor_CN\FullTextFiles.txt
-..\AG_Translate_Decryptor_CN\bin\ArteryGearDecrytor.exe Make ..\AG_Translate_Decryptor_CN\FullTextFiles.txt ..\AG_Translate_Decryptor_CN\FileData.txt
+..\AG_Translate_Decryptor_CN\bin\ArteryGearDecryptor.exe Make ..\AG_Translate_Decryptor_CN\FullTextFiles.txt ..\AG_Translate_Decryptor_CN\FileData.txt
 dir/b ..\AG_Translate_Decryptor_JAP\Data > ..\AG_Translate_Decryptor_JAP\FullTextFiles.txt
-..\AG_Translate_Decryptor_JAP\bin\ArteryGearDecrytor.exe Make ..\AG_Translate_Decryptor_JAP\FullTextFiles.txt ..\AG_Translate_Decryptor_JAP\FileData.txt
+..\AG_Translate_Decryptor_JAP\bin\ArteryGearDecryptor.exe Make ..\AG_Translate_Decryptor_JAP\FullTextFiles.txt ..\AG_Translate_Decryptor_JAP\FileData.txt
 
 copy ..\AG_Translate_Decryptor_CN\Result\DecryptData\*.* .\Decrypt\CN\*.*
 copy ..\AG_Translate_Decryptor_JAP\Result\DecryptData\*.* .\Decrypt\JAP\*.*
