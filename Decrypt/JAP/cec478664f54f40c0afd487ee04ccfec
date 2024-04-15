@@ -2,6 +2,15 @@
 
 I18nData_Xls_1={}
 I18nData_Xls_1.xls={
+["Skilloverview_skillName_15904001"]={id="Skilloverview_skillName_15904001",value="입자 파동"},
+["Skilloverview_skillActionName_15904001"]={id="Skilloverview_skillActionName_15904001",value="입자 파동"},
+["Skilloverview_lv1Desc_15904002"]={id="Skilloverview_lv1Desc_15904002",value="적 전체에 대미지를 주고, 전체 타겟의 버프를 <color=#c70016>1 </color>를 해제하고, <color=#c70016>2 </color> 턴의 <공격력 감소>를 부여. 공격 후 타겟에 <color=#e49c00> 2 </color> 개 이상의 디버프가 있는 경우, 자신은 <color=#e49c00> 추가 턴 </color>를 획득한다."},
+["Skilloverview_skillName_15904002"]={id="Skilloverview_skillName_15904002",value="입자도 덩달아"},
+["Skilloverview_skillActionName_15904002"]={id="Skilloverview_skillActionName_15904002",value="입자도 덩달아"},
+["Skilloverview_lv1Desc_15904003"]={id="Skilloverview_lv1Desc_15904003",value="적 전체에게 대미지를 주고 <color=#c70016>2</color>턴의 <속박>을 부여한다. <color=#c70016> 75% </color>의 확률로 <color=#c70016> 2 </color>턴의 <방어력 감소>을 모든 타겟에 부여한다. 아군 전체의 스킬 쿨타임을 <color=#e49c00>1</color>턴 단축"},
+["Skilloverview_skillName_15904003"]={id="Skilloverview_skillName_15904003",value="측정 불능 원리"},
+["Skilloverview_skillActionName_15904003"]={id="Skilloverview_skillActionName_15904003",value="측정 불능 원리"},
+["Skilloverview_lv1Desc_15904004"]={id="Skilloverview_lv1Desc_15904004",value="<color=#e49c00> 상성 관계의 영향을 받지 않음</color>. 공격을 받은 후 자신의 행동 게이지를 <color=#e49c00> 5% </color> 전진시킨다. 자신이 받는 모든 행동 게이지 후퇴 효과가 -<color=#e49c00>50%</color>가 된다. 자신의 턴 종료될 때 디버프가 <color=#e49c00>4</color>개 이상 부여되었을 경우, <color=#207cef>2</color>개의 디버프를 해제하고, 자신에게 <color=#207cef>2</color>턴의 <공격력 업>과 <크리티컬률 업>을 부여한다."},
 ["Skilloverview_skillName_15904004"]={id="Skilloverview_skillName_15904004",value="듀얼리티"},
 ["Skilloverview_skillActionName_15904004"]={id="Skilloverview_skillActionName_15904004",value="듀얼리티"},
 ["Skilloverview_lv1Desc_15904101"]={id="Skilloverview_lv1Desc_15904101",value="적 전체에 대미지를 주고 행동 게이지를 <color=#e49c00> 10% </color> 후퇴시킨다."},
@@ -22757,7 +22766,7 @@ I18nData_Xls_1.xls={
 ["TechtreeNode_number_65"]={id="TechtreeNode_number_65",value="퓨어 하트: 모리스"},
 ["TechtreeNode_number_66"]={id="TechtreeNode_number_66",value="마젠타:아델"},
 ["TechtreeNode_number_67"]={id="TechtreeNode_number_67",value="에메랄드:스즈카제"},
-["TechtreeNode_number_68"]={id="TechtreeNode_number_68"},
+["TechtreeNode_number_68"]={id="TechtreeNode_number_68",value="헬리오라이트: 우르술라"},
 ["TechtreeNode_number_69"]={id="TechtreeNode_number_69",value="작작하는 명성: 시리우스"},
 ["TechtreeNode_number_70"]={id="TechtreeNode_number_70"},
 ["TechtreeNode_number_71"]={id="TechtreeNode_number_71",value="FILE 013"},
@@ -26568,6 +26577,7 @@ I18nData_Xls_1.xls={
 ["Itemshow_name_61000076"]={id="Itemshow_name_61000076",value="긴가 무기 티켓"},
 ["Itemshow_name_61000218"]={id="Itemshow_name_61000218",value="청연 무기 티켓"},
 ["Itemshow_name_61000097"]={id="Itemshow_name_61000097",value="유이 무기 티켓"},
+["Itemshow_name_61000139"]={id="Itemshow_name_61000139",value="조녀・무기 티켓"},
 ["ExclusiveWeapon_name_1001"]={id="ExclusiveWeapon_name_1001",value="레이저 캐논 -복원형-"},
 ["ExclusiveWeapon_name_1002"]={id="ExclusiveWeapon_name_1002",value="코어 브레이커"},
 ["ExclusiveWeapon_name_1003"]={id="ExclusiveWeapon_name_1003",value="쇼크 캐논"},
@@ -26654,6 +26664,7 @@ I18nData_Xls_1.xls={
 ["Itemshow_description_61000076"]={id="Itemshow_description_61000076",value="캐릭터 전용 무기의 해제와 강화에 사용됩니다"},
 ["Itemshow_description_61000097"]={id="Itemshow_description_61000097",value="캐릭터 전용 무기의 해제와 강화에 사용됩니다"},
 ["Itemshow_description_61000218"]={id="Itemshow_description_61000218",value="캐릭터 전용 무기의 해제와 강화에 사용됩니다"},
+["Itemshow_description_61000139"]={id="Itemshow_description_61000139",value="특정 캐릭터의 전용 무기를 해제하거나 강화하는 데 사용할 수 있다."},
 ["Itemshow_name_1500"]={id="Itemshow_name_1500",value="무장분석기"},
 ["Itemshow_description_1500"]={id="Itemshow_description_1500",value="전희 무기 티켓 교환에 사용"},
 ["Equipment_recommend"]={id="Equipment_recommend",value="권장"},
@@ -29882,17 +29893,6 @@ I18nData_Xls_1.xls={
 ["Charactervoicemain_voiceName_201057033"]={id="Charactervoicemain_voiceName_201057033",value="파견 출발"},
 ["Charactervoicemain_voiceName_201057034"]={id="Charactervoicemain_voiceName_201057034",value="파견 종료"},
 ["Charactervoicemain_voiceName_201057035"]={id="Charactervoicemain_voiceName_201057035",value="목욕1"},
-["Charactervoicemain_voiceName_201057036"]={id="Charactervoicemain_voiceName_201057036",value="목욕2"},
-["Charactervoicemain_voiceName_201057037"]={id="Charactervoicemain_voiceName_201057037",value="목욕 3"},
-["Charactervoicemain_voiceName_201057038"]={id="Charactervoicemain_voiceName_201057038",value="리더"},
-["Charactervoicemain_voiceName_201057039"]={id="Charactervoicemain_voiceName_201057039",value="대답"},
-["Charactervoicemain_voiceName_201057040"]={id="Charactervoicemain_voiceName_201057040",value="스킬1"},
-["Charactervoicemain_voiceName_201057041"]={id="Charactervoicemain_voiceName_201057041",value="스킬2"},
-["Charactervoicemain_voiceName_201057042"]={id="Charactervoicemain_voiceName_201057042",value="스킬3"},
-["Charactervoicemain_voiceName_201057043"]={id="Charactervoicemain_voiceName_201057043",value="스킬4"},
-["Charactervoicemain_voiceName_201057044"]={id="Charactervoicemain_voiceName_201057044",value="스킬5"},
-["Charactervoicemain_voiceName_201057045"]={id="Charactervoicemain_voiceName_201057045",value="스킬6"},
-["Charactervoicemain_voiceName_201057046"]={id="Charactervoicemain_voiceName_201057046",value="대미지1"},
 }
 function I18nData_Xls_1.GetExcelData(id)
 	local data = I18nData_Xls_1.xls[tostring(id)]

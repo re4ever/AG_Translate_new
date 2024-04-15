@@ -29,4 +29,4 @@ del /S /Q ..\AG_Replace_Text_EN\Data\*.*
 copy .\Result\CN\*.* ..\AG_Replace_Text_CN\Data\*.*
 copy .\Result\JAP\*.* ..\AG_Replace_Text_JAP\Data\*.*
 copy .\Result\TW\*.* ..\AG_Replace_Text_TW\Data\*.*
-copy .\Result\EN\*.* ..\AG_Replace_Text_EN\Data\*.*
+copy .\Result\JAP\*.* ..\AG_Replace_Text_EN\Data\*.*
