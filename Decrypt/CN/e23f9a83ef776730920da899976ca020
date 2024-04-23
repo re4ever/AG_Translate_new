@@ -2,6 +2,8 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["Showag_code_100000780"]={id="Showag_code_100000780",value="AGF-04"},
+["Showag_code_100000781"]={id="Showag_code_100000781",value="AGF-04"},
 ["Showag_code_100000790"]={id="Showag_code_100000790",value="AGC-06"},
 ["Showag_code_100000800"]={id="Showag_code_100000800",value="AGP-11"},
 ["Showag_code_100000810"]={id="Showag_code_100000810",value="AGH-04"},
@@ -5278,6 +5280,9 @@ I18nData_Xls_2.xls={
 ["ExclusiveWeapon_name_4027"]={id="ExclusiveWeapon_name_4027",value="베릴 스매셔"},
 ["ExclusiveWeapon_name_4031"]={id="ExclusiveWeapon_name_4031",value="DJ 컨트롤러"},
 ["ExclusiveWeapon_name_4041"]={id="ExclusiveWeapon_name_4041",value="홀로그래피 디스플레이 장치"},
+["ExclusiveWeapon_name_4051"]={id="ExclusiveWeapon_name_4051",value="수호 여신 태술"},
+["ExclusiveWeapon_name_4052"]={id="ExclusiveWeapon_name_4052",value="수호 여신의 검"},
+["ExclusiveWeapon_name_4053"]={id="ExclusiveWeapon_name_4053",value="여신의 성검"},
 ["ui_worldboss_seasonReward_7"]={id="ui_worldboss_seasonReward_7",value="시즌 금잔"},
 ["ui_worldboss_seasonReward_8"]={id="ui_worldboss_seasonReward_8",value="시즌 은잔"},
 ["ui_worldboss_seasonReward_9"]={id="ui_worldboss_seasonReward_9",value="시즌 동잔"},
@@ -29996,11 +30001,6 @@ I18nData_Xls_2.xls={
 ["Charactervoicemain_unlockVoice_201141038"]={id="Charactervoicemain_unlockVoice_201141038",value="리더"},
 ["Charactervoicemain_unlockVoice_201141039"]={id="Charactervoicemain_unlockVoice_201141039",value="대답"},
 ["Charactervoicemain_unlockVoice_201141040"]={id="Charactervoicemain_unlockVoice_201141040",value="스킬1"},
-["Charactervoicemain_unlockVoice_201141041"]={id="Charactervoicemain_unlockVoice_201141041",value="스킬2"},
-["Charactervoicemain_unlockVoice_201141042"]={id="Charactervoicemain_unlockVoice_201141042",value="스킬3"},
-["Charactervoicemain_unlockVoice_201141043"]={id="Charactervoicemain_unlockVoice_201141043",value="스킬4"},
-["Charactervoicemain_unlockVoice_201141044"]={id="Charactervoicemain_unlockVoice_201141044",value="스킬5"},
-["Charactervoicemain_unlockVoice_201141045"]={id="Charactervoicemain_unlockVoice_201141045",value="스킬6"},
 }
 function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]
