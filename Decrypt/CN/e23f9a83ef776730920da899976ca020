@@ -2,6 +2,10 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["Showag_code_100000740"]={id="Showag_code_100000740",value="AGS-09"},
+["Showag_code_100000750"]={id="Showag_code_100000750",value="AGS-11"},
+["Showag_code_100000760"]={id="Showag_code_100000760",value="AGS-12"},
+["Showag_code_100000770"]={id="Showag_code_100000770",value="AGM-08"},
 ["Showag_code_100000780"]={id="Showag_code_100000780",value="AGF-04"},
 ["Showag_code_100000781"]={id="Showag_code_100000781",value="AGF-04"},
 ["Showag_code_100000790"]={id="Showag_code_100000790",value="AGC-06"},
@@ -5280,8 +5284,8 @@ I18nData_Xls_2.xls={
 ["ExclusiveWeapon_name_4027"]={id="ExclusiveWeapon_name_4027",value="베릴 스매셔"},
 ["ExclusiveWeapon_name_4031"]={id="ExclusiveWeapon_name_4031",value="DJ 컨트롤러"},
 ["ExclusiveWeapon_name_4041"]={id="ExclusiveWeapon_name_4041",value="홀로그래피 디스플레이 장치"},
-["ExclusiveWeapon_name_4051"]={id="ExclusiveWeapon_name_4051",value="수호 여신 태술"},
-["ExclusiveWeapon_name_4052"]={id="ExclusiveWeapon_name_4052",value="수호 여신의 검"},
+["ExclusiveWeapon_name_4051"]={id="ExclusiveWeapon_name_4051",value="수호여신의 칼"},
+["ExclusiveWeapon_name_4052"]={id="ExclusiveWeapon_name_4052",value="수호여신의 검"},
 ["ExclusiveWeapon_name_4053"]={id="ExclusiveWeapon_name_4053",value="여신의 성검"},
 ["ui_worldboss_seasonReward_7"]={id="ui_worldboss_seasonReward_7",value="시즌 금잔"},
 ["ui_worldboss_seasonReward_8"]={id="ui_worldboss_seasonReward_8",value="시즌 은잔"},
@@ -29997,10 +30001,6 @@ I18nData_Xls_2.xls={
 ["Charactervoicemain_unlockVoice_201141024"]={id="Charactervoicemain_unlockVoice_201141024",value="호감도 레벨 8로 개방"},
 ["Charactervoicemain_unlockVoice_201141035"]={id="Charactervoicemain_unlockVoice_201141035",value="욕실1"},
 ["Charactervoicemain_unlockVoice_201141036"]={id="Charactervoicemain_unlockVoice_201141036",value="욕실2"},
-["Charactervoicemain_unlockVoice_201141037"]={id="Charactervoicemain_unlockVoice_201141037",value="호감도 레벨 8로 개방"},
-["Charactervoicemain_unlockVoice_201141038"]={id="Charactervoicemain_unlockVoice_201141038",value="리더"},
-["Charactervoicemain_unlockVoice_201141039"]={id="Charactervoicemain_unlockVoice_201141039",value="대답"},
-["Charactervoicemain_unlockVoice_201141040"]={id="Charactervoicemain_unlockVoice_201141040",value="스킬1"},
 }
 function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]

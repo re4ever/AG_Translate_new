@@ -26630,6 +26630,9 @@ I18nData_Xls_1.xls={
 ["ExclusiveWeapon_name_4027"]={id="ExclusiveWeapon_name_4027",value="베릴 스매셔"},
 ["ExclusiveWeapon_name_4031"]={id="ExclusiveWeapon_name_4031",value="DJ 컨트롤러"},
 ["ExclusiveWeapon_name_4041"]={id="ExclusiveWeapon_name_4041",value="홀로그래피 디스플레이 장치"},
+["ExclusiveWeapon_name_4051"]={id="ExclusiveWeapon_name_4051",value="수호여신의 칼"},
+["ExclusiveWeapon_name_4052"]={id="ExclusiveWeapon_name_4052",value="수호여신의 검"},
+["ExclusiveWeapon_name_4053"]={id="ExclusiveWeapon_name_4053",value="여신의 성검"},
 ["Itemshow_description_61000001"]={id="Itemshow_description_61000001",value="캐릭터 전용 무기의 해제와 강화에 사용됩니다"},
 ["Itemshow_description_61000002"]={id="Itemshow_description_61000002",value="AG 전용 무기의 해방 및 강화에 사용할 수 있는"},
 ["Itemshow_description_61000012"]={id="Itemshow_description_61000012",value="캐릭터 전용 무기의 해제와 강화에 사용됩니다"},
@@ -29890,9 +29893,6 @@ I18nData_Xls_1.xls={
 ["Charactervoicemain_voiceName_201057026"]={id="Charactervoicemain_voiceName_201057026",value="홈 대화2"},
 ["Charactervoicemain_voiceName_201057027"]={id="Charactervoicemain_voiceName_201057027",value="홈 대화3"},
 ["Charactervoicemain_voiceName_201057032"]={id="Charactervoicemain_voiceName_201057032",value="선물"},
-["Charactervoicemain_voiceName_201057033"]={id="Charactervoicemain_voiceName_201057033",value="파견 출발"},
-["Charactervoicemain_voiceName_201057034"]={id="Charactervoicemain_voiceName_201057034",value="파견 종료"},
-["Charactervoicemain_voiceName_201057035"]={id="Charactervoicemain_voiceName_201057035",value="목욕1"},
 }
 function I18nData_Xls_1.GetExcelData(id)
 	local data = I18nData_Xls_1.xls[tostring(id)]
