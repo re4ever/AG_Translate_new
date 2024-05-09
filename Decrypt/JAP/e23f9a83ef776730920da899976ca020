@@ -2,6 +2,9 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["Charactervoicemain_voiceName_201057026"]={id="Charactervoicemain_voiceName_201057026",value="홈 대화2"},
+["Charactervoicemain_voiceName_201057027"]={id="Charactervoicemain_voiceName_201057027",value="홈 대화3"},
+["Charactervoicemain_voiceName_201057032"]={id="Charactervoicemain_voiceName_201057032",value="선물"},
 ["Charactervoicemain_voiceName_201057033"]={id="Charactervoicemain_voiceName_201057033",value="파견 출발"},
 ["Charactervoicemain_voiceName_201057034"]={id="Charactervoicemain_voiceName_201057034",value="파견 종료"},
 ["Charactervoicemain_voiceName_201057035"]={id="Charactervoicemain_voiceName_201057035",value="목욕1"},
@@ -29998,9 +30001,6 @@ I18nData_Xls_2.xls={
 ["Avatarframe_approach_3039"]={id="Avatarframe_approach_3039",value="프론티어가 주최하는 훈련에 참여해야 얻을 수 있는 메시지 프레임. 훈련 기록을 깬 참가자에게만 이 영예가 주어진다."},
 ["Itemshow_name_3039"]={id="Itemshow_name_3039",value="레전드 파일럿"},
 ["Itemshow_description_3039"]={id="Itemshow_description_3039",value="프론티어가 주최하는 훈련에 참여해야 얻을 수 있는 메시지 프레임. 훈련 기록을 깬 참가자에게만 이 영예가 주어진다."},
-["Avatarframe_name_3040"]={id="Avatarframe_name_3040",value="에이스 파일럿"},
-["Avatarframe_approach_3040"]={id="Avatarframe_approach_3040",value="프론티어가 주최하는 훈련에 참여해야 얻을 수 있는 메시지 프레임. 종합 성적이 상위권인 참가자에게만 이 영예가 주어진다."},
-["Itemshow_name_3040"]={id="Itemshow_name_3040",value="에이스 파일럿"},
 }
 function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]

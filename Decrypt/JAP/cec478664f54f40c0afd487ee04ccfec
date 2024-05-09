@@ -2,6 +2,8 @@
 
 I18nData_Xls_1={}
 I18nData_Xls_1.xls={
+["Skilloverview_skillActionName_15903910"]={id="Skilloverview_skillActionName_15903910",value="듀얼리티"},
+["Skilloverview_lv1Desc_15904001"]={id="Skilloverview_lv1Desc_15904001",value="적 전체에 대미지를 주고 타겟의 행동 게이지를 <color=#e49c00> 10% </color> 후퇴시킨다.행동 게이지를 후퇴시킨 후, 다시 <color=#c70016>2</color> 턴의 <속도 감소>를 부여한다."},
 ["Skilloverview_skillName_15904001"]={id="Skilloverview_skillName_15904001",value="입자 파동"},
 ["Skilloverview_skillActionName_15904001"]={id="Skilloverview_skillActionName_15904001",value="입자 파동"},
 ["Skilloverview_lv1Desc_15904002"]={id="Skilloverview_lv1Desc_15904002",value="적 전체에 대미지를 주고, 전체 타겟의 버프를 <color=#c70016>1 </color>를 해제하고, <color=#c70016>2 </color> 턴의 <공격력 감소>를 부여. 공격 후 타겟에 <color=#e49c00> 2 </color> 개 이상의 디버프가 있는 경우, 자신은 <color=#e49c00> 추가 턴 </color>를 획득한다."},
@@ -7129,6 +7131,7 @@ I18nData_Xls_1.xls={
 ["buffstate_text_50999026"]={id="buffstate_text_50999026",value="크리티컬 저항 상승"},
 ["buffstate_text_50999126"]={id="buffstate_text_50999126",value="크리티컬 저항 대폭 증가"},
 ["buffstate_text_50999028"]={id="buffstate_text_50999028",value="리플렉트"},
+["buffstate_text_50165210"]={id="buffstate_text_50165210",value="반사(즉, 유기체의 자동 반응)"},
 ["buffstate_text_50999201"]={id="buffstate_text_50999201",value="공격력 감소"},
 ["buffstate_text_50999301"]={id="buffstate_text_50999301",value="공격력 대폭 감소"},
 ["buffstate_text_50999202"]={id="buffstate_text_50999202",value="방어력 감소"},
@@ -29890,9 +29893,6 @@ I18nData_Xls_1.xls={
 ["Charactervoicemain_voiceName_201057020"]={id="Charactervoicemain_voiceName_201057020",value="크리스마스"},
 ["Charactervoicemain_voiceName_201057021"]={id="Charactervoicemain_voiceName_201057021",value="전희의 생일"},
 ["Charactervoicemain_voiceName_201057022"]={id="Charactervoicemain_voiceName_201057022",value="홈 대화1"},
-["Charactervoicemain_voiceName_201057026"]={id="Charactervoicemain_voiceName_201057026",value="홈 대화2"},
-["Charactervoicemain_voiceName_201057027"]={id="Charactervoicemain_voiceName_201057027",value="홈 대화3"},
-["Charactervoicemain_voiceName_201057032"]={id="Charactervoicemain_voiceName_201057032",value="선물"},
 }
 function I18nData_Xls_1.GetExcelData(id)
 	local data = I18nData_Xls_1.xls[tostring(id)]
