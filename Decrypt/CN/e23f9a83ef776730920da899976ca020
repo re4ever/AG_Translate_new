@@ -2,6 +2,9 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["jjc_curweekrank"]={id="jjc_curweekrank",value="이번주 시작 랭크"},
+["jjc_getreward"]={id="jjc_getreward",value="이번 시즌은 다음 보상 획득"},
+["jjc_closeclickempty"]={id="jjc_closeclickempty",value="TOUCH"},
 ["jjc_saijijifen"]={id="jjc_saijijifen",value="시즌 스코어"},
 ["jjc_cofflinebattle"]={id="jjc_cofflinebattle",value="오프라인 전투기록"},
 ["jjc_get"]={id="jjc_get",value="획득"},
@@ -29998,9 +30001,6 @@ I18nData_Xls_2.xls={
 ["Charactervoicemain_voiceName_201033047"]={id="Charactervoicemain_voiceName_201033047",value="대미지2"},
 ["Charactervoicemain_voiceName_201033048"]={id="Charactervoicemain_voiceName_201033048",value="전투 불능"},
 ["Charactervoicemain_voiceName_201033049"]={id="Charactervoicemain_voiceName_201033049",value="전투 패배"},
-["Charactervoicemain_voiceName_201033050"]={id="Charactervoicemain_voiceName_201033050",value="승리1"},
-["Charactervoicemain_voiceName_201033051"]={id="Charactervoicemain_voiceName_201033051",value="승리2"},
-["Charactervoicemain_voiceName_201033052"]={id="Charactervoicemain_voiceName_201033052",value="강화 진행"},
 }
 function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]
