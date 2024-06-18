@@ -2752,7 +2752,7 @@ I18nData_Xls_4.xls={
 ["Skilloverview_lv1Desc_15019718"]={id="Skilloverview_lv1Desc_15019718",value="사용 <color=#e49c00>“바삭하고 향긋합니다.”</color>그러면 모든 대상에게 입힌 피해량만큼 생명력을 회복합니다.<color=#e49c00>30퍼센트</color>피해량 증가<color=#e49c00>50퍼센트</color>。"},
 ["Skilloverview_skillName_15019718"]={id="Skilloverview_skillName_15019718",value="유아 시스템 번호 IV"},
 ["Skilloverview_skillActionName_15019718"]={id="Skilloverview_skillActionName_15019718",value="유아 시스템 번호 IV"},
-["Skilloverview_lv1Desc_15019719"]={id="Skilloverview_lv1Desc_15019719",value="(Err)0}당 수동적으로 제공됨\n(Src)被动提供的每<color=#e49c00>1000</color>攻击力提供的伤害加成提升至<color=#e49c00>400</color>。并在战斗开始时为自身赋予〈美味速享〉状态，持续<color=#207cef>2</color>回合。"},
+["Skilloverview_lv1Desc_15019719"]={id="Skilloverview_lv1Desc_15019719",value="<color=#e49c00>1000</color>당 패시브 공격력으로 제공되는 피해 보너스가 <color=#e49c00>400</color>으로 증가합니다. 그리고 전투 시작 시 <color=#207cef>2</color> 라운드 동안 지속되는 맛있는 빠른 즐거움 상태를 부여받습니다. ""},
 ["Skilloverview_skillName_15019719"]={id="Skilloverview_skillName_15019719",value="어린이 시스템 수 V"},
 ["Skilloverview_skillActionName_15019719"]={id="Skilloverview_skillActionName_15019719",value="어린이 시스템 수 V"},
 ["Skilloverview_lv1Desc_15019720"]={id="Skilloverview_lv1Desc_15019720",value="사용 <color=#e49c00>“바삭하고 향긋합니다.”</color>그렇게 되면 모든 대상의 획득 상태를 확장하세요.<color=#207cef> 1 </color>라운드, 모든 적 대상에게 단축된 이득 상태를 부여합니다.<color=#C70016> 1 </color>회합."},
