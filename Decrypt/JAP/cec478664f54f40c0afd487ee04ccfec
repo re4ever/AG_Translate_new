@@ -2,6 +2,7 @@
 
 I18nData_Xls_1={}
 I18nData_Xls_1.xls={
+["Skilloverview_skillActionName_15903702"]={id="Skilloverview_skillActionName_15903702",value="냥봇 개혁!"},
 ["Skilloverview_lv1Desc_15903703"]={id="Skilloverview_lv1Desc_15903703",value="적 전체에 대미지를 주고, 모든 타겟의 버프를<color=#c70016>1</color>개 해제."},
 ["Skilloverview_skillName_15903703"]={id="Skilloverview_skillName_15903703",value="냥봇 총사령!"},
 ["Skilloverview_skillActionName_15903703"]={id="Skilloverview_skillActionName_15903703",value="냥봇 총사령!"},
@@ -17971,7 +17972,7 @@ I18nData_Xls_1.xls={
 ["FunctionOpen_lockDesc_42"]={id="FunctionOpen_lockDesc_42",value="한정 이벤트 잠금 중. 메인 1-10 클리어 시 개방"},
 ["FunctionOpen_lockDesc_43"]={id="FunctionOpen_lockDesc_43",value="퀵 장비 기능 미개방. 지휘관 Lv.20 도달로 개방"},
 ["FunctionOpen_lockDesc_44"]={id="FunctionOpen_lockDesc_44",value="냥봇 배틀 미해방, 지휘관 Lv.30 도달 후 해방"},
-["ProhibitCreate_1"]={id="ProhibitCreate_1",value="현재 신규 사용자 등록이 마감되었음을 알려드립니다."},
+["ProhibitCreate_1"]={id="ProhibitCreate_1",value="신규 사용자 등록이 종료되었습니다."},
 ["awaken_level_notEnough3"]={id="awaken_level_notEnough3",value="기술 Lv.을 3단계까지 올려주세요"},
 ["cant_addblacklist_self"]={id="cant_addblacklist_self",value="자신을 블랙리스트에 추가할 수 없습니다"},
 ["Task_desc_16020309"]={id="Task_desc_16020309",value="당일 12:00-다음날 5:00 승선 보급"},
@@ -29891,7 +29892,6 @@ I18nData_Xls_1.xls={
 ["Charactervoicemain_voiceName_201056001"]={id="Charactervoicemain_voiceName_201056001",value="제목"},
 ["Charactervoicemain_voiceName_201056002"]={id="Charactervoicemain_voiceName_201056002",value="획득"},
 ["Charactervoicemain_voiceName_201056003"]={id="Charactervoicemain_voiceName_201056003",value="로그인1"},
-["Charactervoicemain_voiceName_201056004"]={id="Charactervoicemain_voiceName_201056004",value="로그인2"},
 }
 function I18nData_Xls_1.GetExcelData(id)
 	local data = I18nData_Xls_1.xls[tostring(id)]

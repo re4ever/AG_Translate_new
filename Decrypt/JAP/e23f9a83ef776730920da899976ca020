@@ -2,6 +2,7 @@
 
 I18nData_Xls_2={}
 I18nData_Xls_2.xls={
+["Charactervoicemain_voiceName_201056004"]={id="Charactervoicemain_voiceName_201056004",value="로그인2"},
 ["Charactervoicemain_voiceName_201056005"]={id="Charactervoicemain_voiceName_201056005",value="터치1"},
 ["Charactervoicemain_voiceName_201056006"]={id="Charactervoicemain_voiceName_201056006",value="터치2"},
 ["Charactervoicemain_voiceName_201056007"]={id="Charactervoicemain_voiceName_201056007",value="터치3"},
@@ -8858,8 +8859,8 @@ I18nData_Xls_2.xls={
 ["HandBookEvent_Review_jj_10000000"]={id="HandBookEvent_Review_jj_10000000"},
 ["PlotMain_plotName_10000000"]={id="PlotMain_plotName_10000000",value="테마송"},
 ["IllustratedBookPlot_name_30000000"]={id="IllustratedBookPlot_name_30000000",value="테마송"},
-["Itemshow_name_300000999"]={id="Itemshow_name_300000999",value="황혼의 카츄샤"},
-["Itemshow_description_300000999"]={id="Itemshow_description_300000999",value="별 볼일 없는 장식품이지만 바닥 부분에 칼날이 달려 있어 위험하면서도 귀여운 존재다."},
+["Itemshow_name_300000999"]={id="Itemshow_name_300000999",value="펑펑펑펑펑펑펑펑펑"},
+["Itemshow_description_300000999"]={id="Itemshow_description_300000999",value="지퍼를 잡아당겨도 빛이 나지는 않지만, 작은 놀라움 정도는 있을 것이다."},
 ["Avatar_name_4169"]={id="Avatar_name_4169",value="다크딥"},
 ["Avatar_approach_4169"]={id="Avatar_approach_4169",value="알 수 없는 말을 늘어놓는 마법소녀. 다른 마법소녀에 대한 경쟁심이 대단하다."},
 ["Itemshow_name_4169"]={id="Itemshow_name_4169",value="다크딥"},
@@ -30000,7 +30001,6 @@ I18nData_Xls_2.xls={
 ["Showag_symbol_100000971"]={id="Showag_symbol_100000971",value="헌터스 팬텀"},
 ["Showag_name_100000971"]={id="Showag_name_100000971",value="유이"},
 ["Showag_agIntro_100000971"]={id="Showag_agIntro_100000971",value="밝고 마음이 넓으며 세세한 것에 구애받지 않는다. 솔직한 성격 덕분에 군대에서도 꽤 교우관계가 넓다. 그리고 또 한 가지 밑줄, 별표 쳐야 할 곳은 스파이시 광이라는 점이다. 그 미친 매운음식이 아니면 입맛이 돋지 않는 수준이다. \n유이와 교제를 거듭하다 보면 그녀가 언제나 생각을 숨기고 있다는 것을 느끼게 될거다. 사실 그녀 자신도 마음속 깊이 알지 못한다…자신이 감추고 있는 것이 도대체 무엇인지.\n전사 판정을 받은 48군의 유일한 대원이며, 괴뢰화 뒤 한 차례 지휘관의 적이 되었지만 다시 인류세력인 유니온에 가입했다."},
-["Showag_agFormIntro_100000971"]={id="Showag_agFormIntro_100000971",value="적이 공격 이외의 행동을 취했을 때 에너지 값을 획득할 수 있다.에너지 값이 MAX가 되었을 때 추가 턴을 획득해, 적에게 대미지를 준다."},
 }
 function I18nData_Xls_2.GetExcelData(id)
 	local data = I18nData_Xls_2.xls[tostring(id)]
